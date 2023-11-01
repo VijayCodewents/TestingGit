@@ -1,4 +1,4 @@
 a = 200
 b = 35
-c = a + b
+c = a * b
 print(c)
